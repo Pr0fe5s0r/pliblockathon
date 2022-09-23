@@ -9,6 +9,23 @@ This is a project which is based on blockchain integration inside unity. Now ada
 
 So, First create a unity project inside the Unity hub. Once created import the TestVersion0.0.2.unity package inside it. After that run the node server and index.html at 4000 and 5500.
 
+# How to Start Server:
+
+For starting IMRS(Intermediate Redirect Server):
+
+```
+$ cd server
+$ npm i
+$ node index.js
+
+```
+
+for starting PatternServer:
+
+```
+$ npm i
+$ node config.js
+```
 
 # Function Call's:
 <br>
