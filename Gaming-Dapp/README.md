@@ -1,4 +1,5 @@
-# PLI BLOCKCHAIN HACKATHON
+# Gaming Dapp
+
 <br>
 
 This is a project which is based on blockchain integration inside unity. Now adays unity is used to create metaverse and p2e games. By Which bigger crypto compnaies are selling the crypto's world wide. But there are only 10% of whole blockchain developers do P2E based games. So, me and my team used this chance to create a developer friendly SDK which use's NODE API for Backend for connecting wallets insdie Apothem Network. We have initiated this project based on real life SDK like ChainSafe which is use in ethereum network.
